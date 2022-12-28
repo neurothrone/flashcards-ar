@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2F35823F295BDB79008D3936 /* FlashcardsARApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F35823E295BDB79008D3936 /* FlashcardsARApp.swift */; };
+		2F35823F295BDB79008D3936 /* AppMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F35823E295BDB79008D3936 /* AppMain.swift */; };
 		2F358241295BDB79008D3936 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F358240295BDB79008D3936 /* ContentView.swift */; };
 		2F358243295BDB7A008D3936 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F358242295BDB7A008D3936 /* Assets.xcassets */; };
 		2F358246295BDB7A008D3936 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F358245295BDB7A008D3936 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		2F35823B295BDB79008D3936 /* FlashcardsAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlashcardsAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		2F35823E295BDB79008D3936 /* FlashcardsARApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardsARApp.swift; sourceTree = "<group>"; };
+		2F35823E295BDB79008D3936 /* AppMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppMain.swift; sourceTree = "<group>"; };
 		2F358240295BDB79008D3936 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2F358242295BDB7A008D3936 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F358245295BDB7A008D3936 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		2F35823D295BDB79008D3936 /* FlashcardsAR */ = {
 			isa = PBXGroup;
 			children = (
-				2F35823E295BDB79008D3936 /* FlashcardsARApp.swift */,
+				2F35823E295BDB79008D3936 /* AppMain.swift */,
 				2F358240295BDB79008D3936 /* ContentView.swift */,
 				2F358242295BDB7A008D3936 /* Assets.xcassets */,
 				2F358244295BDB7A008D3936 /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F358241295BDB79008D3936 /* ContentView.swift in Sources */,
-				2F35823F295BDB79008D3936 /* FlashcardsARApp.swift in Sources */,
+				2F35823F295BDB79008D3936 /* AppMain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
